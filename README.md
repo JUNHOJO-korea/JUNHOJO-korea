@@ -31,7 +31,7 @@
 |---|---|---|
 | **China Value Chain Toolkit** | 1-페이지 아티팩트로 의사결정 속도 ↑ | [repo](https://github.com/JUNHOJO-korea/china-value-chain-toolkit) |
 | **Hyundai Report 2025** | 산업/재무/제품 관점 통합 리서치 · 슬라이드 스토리라인 | [repo](https://github.com/JUNHOJO-korea/Hyundai_Report-2025-) |
-| **OpenVINO Flask Server** | 경량 추론 서버 구성 · 배포 파이프라인 | [repo](https://github.com/jindun619/openvino-flask-server) |
+| **OpenVINO Prompt/Inference Module** | LLM 경량화(Quant/IR) & OpenVINO 추론 최적화, 프롬프트 엔지니어링 실험 리포트 | [repo](https://github.com/jindun619/openvino-flask-server) |
 
 
 
