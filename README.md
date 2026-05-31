@@ -1,8 +1,8 @@
 <h1 align="center">JUNHO JO</h1>
 
 <p align="center">
-  Cloud Infrastructure / AI Automation / Research Engineering / Technical Consulting<br/>
-  <b>KOR / CHN / ENG</b>  Industrial Engineering @ Shanghai Jiao Tong University
+  Cloud Infrastructure · AI Automation · Research Engineering · Technical Consulting<br/>
+  <b>KOR / CHN / ENG</b> · Industrial Engineering @ Shanghai Jiao Tong University
 </p>
 
 <p align="center">
@@ -14,6 +14,10 @@
 
 <p align="center">
   Building tools where infrastructure, automation, research, and business execution connect.
+</p>
+
+<p align="center">
+  <sub>Tencent Cloud TAM exposure · AI workflow builder · Research-to-product mindset</sub>
 </p>
 
 ---
@@ -32,6 +36,8 @@ My background combines:
 
 ## What I’m Building
 
+Practical projects that sit between technical depth and real-world execution.
+
 - **AI-assisted web applications**
   - full-stack tools that turn research logic and APIs into usable products
 
@@ -44,6 +50,8 @@ My background combines:
 ---
 
 ## Current Focus
+
+The areas I want to compound on over the next few years.
 
 - **Cloud + AI**
   - AI agents, workflow automation, and enterprise-facing technical tooling
@@ -61,6 +69,8 @@ My background combines:
 
 ## Experience Snapshot
 
+The mix of environments that shaped how I think and build.
+
 - **Tencent Cloud CSIG — Public Cloud Technical Support / TAM Intern**
   - worked around DDoS incident analysis, EdgeOne, customer support workflows, TAM-style coordination, AI automation ideas, and customer communication
 
@@ -77,6 +87,8 @@ My background combines:
 
 ## Research & AI Projects
 
+Projects where analytics, experimentation, and applied AI come together.
+
 - **Cloud Storage Hotspot Detection / Graduation Thesis**
   - a research pipeline for node-level and port-level hotspot detection in cloud storage systems
   - built around imbalance metrics, robust SPC, event construction, and metric learning
@@ -92,6 +104,8 @@ My background combines:
 
 ## Featured Repositories
 
+The repositories that best represent how I think, build, and communicate.
+
 | Project | Area | What it shows | Link |
 |---|---|---|---|
 | **stock-analyzing-web** | Full-stack AI web app | Product thinking, TypeScript full-stack implementation, API integration, deployment structure, and the ability to turn a domain idea into a working web product | [repo](https://github.com/JUNHOJO-korea/stock-analyzing-web) |
@@ -102,6 +116,8 @@ My background combines:
 ---
 
 ## Tech Stack
+
+Tools I currently use most often in research, product prototyping, and technical workflow design.
 
 **Languages**
 - Python
@@ -126,6 +142,8 @@ My background combines:
 
 ## Career Direction
 
+Where I want to create the most value long term.
+
 I’m moving toward roles where **technical depth and business context both matter**, especially:
 
 - **Cloud + AI Technical Consultant**
@@ -140,6 +158,8 @@ I want to work on problems where **infrastructure, automation, customer context,
 ---
 
 ## Contact / Collaboration
+
+Always open to thoughtful conversations and practical collaboration.
 
 I’m open to conversations around:
 
