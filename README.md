@@ -1,8 +1,8 @@
 <h1 align="center">JUNHO JO</h1>
 
 <p align="center">
-  Cloud Infrastructure · AI Automation · Research Engineering · Technical Consulting<br/>
-  <b>KOR / CHN / ENG</b> · Industrial Engineering @ Shanghai Jiao Tong University
+  Cloud Infrastructure / AI Automation / Research Engineering / Technical Consulting<br/>
+  <b>KOR / CHN / ENG</b>  Industrial Engineering @ Shanghai Jiao Tong University
 </p>
 
 <p align="center">
