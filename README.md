@@ -1,55 +1,148 @@
-<h1 align="center">👋 JUNHO JO</h1>
+<h1 align="center">JUNHO JO</h1>
+
 <p align="center">
-  Strategy · <b>Finance + AI</b> · Operations — <b>KOR / CHN / ENG</b><br/>
-  Retail · Consumer · Light Manufacturing · China Value Chain
+  Cloud Infrastructure · AI Automation · Research Engineering · Technical Consulting<br/>
+  <b>KOR / CHN / ENG</b> · Industrial Engineering @ Shanghai Jiao Tong University
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Finance%20%2B%20AI%20%7C%20China%20VC%20%7C%20Econ%20Research-blue?style=flat">
-  <img src="https://img.shields.io/badge/Code-Python%20%7C%20TS%20%7C%20Markdown%20%7C%20Mermaid-black?style=flat">
-  <img src="https://img.shields.io/badge/AI-OpenVINO%20%7C%20PyTorch%20(basic)-orange?style=flat">
+  <img src="https://img.shields.io/badge/Cloud-Tencent%20Cloud%20%7C%20EdgeOne%20%7C%20DDoS-0F172A?style=flat">
+  <img src="https://img.shields.io/badge/AI-Agent%20Workflows%20%7C%20Automation-1D4ED8?style=flat">
+  <img src="https://img.shields.io/badge/Code-Python%20%7C%20TypeScript%20%7C%20SQL-111827?style=flat">
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%2B%20AI%20%7C%20Research%20%2B%20Business-2563EB?style=flat">
 </p>
 
 ---
 
-## 🔭 What I’m working on
-- **Finance + AI** — 팩터/매크로 시그널, 뉴스·재무 텍스트 임베딩 등 “리서치→프로토타입→리포트” 파이프라인 실험
-- **China Value Chain Toolkit** — CBEC 경로 의사결정 · Vendor/QA/OTD 로드맵 · 중국 GB/CCC 체크리스트 → [repo](https://github.com/JUNHOJO-korea/china-value-chain-toolkit)
-- **보고서 작성 습관화** — 경제/산업 리포트 템플릿 정리
----
+## Positioning Statement
 
-## 🧰 Skill Snapshot
-**Finance/Research**: 매크로·산업 리서치, 경쟁/시장 분석, KPI/팩터 가설 수립, 보고서화  
-**AI/Code**: Python(분석·노트북), OpenVINO 배포 경험, PyTorch(basic), TS/JS(간단 웹), Markdown/Mermaid  
-**Ops/China**: Vendor mgmt, OTD/품질, CBEC(BBC/Direct), GB/GB-T/CCC 라벨·표준, Cross-border logistics  
-**Tools**: Excel/Sheets, VS Code, GitHub Projects/Wiki
+I build practical systems where **cloud infrastructure, AI automation, research engineering, and business-facing technical work** meet.
+
+My background combines:
+- **Tencent Cloud CSIG public cloud support / TAM exposure**
+- **research engineering for cloud storage analytics**
+- **AI workflow building with Python, TypeScript, and modern tooling**
+- **cross-border communication across Korean, Chinese, and English**
 
 ---
 
-## 📌 Featured Work 
-| Project | What it shows | Link |
-|---|---|---|
-| **China Value Chain Toolkit** | 1-페이지 아티팩트로 의사결정 속도 ↑ | [repo](https://github.com/JUNHOJO-korea/china-value-chain-toolkit) |
-| **Hyundai Report 2025** | 산업/재무/제품 관점 통합 리서치 · 슬라이드 스토리라인 | [repo](https://github.com/JUNHOJO-korea/Hyundai_Report-2025-) |
-| **OpenVINO Prompt/Inference Module** | LLM 경량화(Quant/IR) & OpenVINO 추론 최적화, 프롬프트 엔지니어링 실험 리포트 | [repo](https://github.com/jindun619/openvino-flask-server) |
+## What I’m Building
 
+- **AI-assisted web applications**
+  - full-stack tools that turn research logic and APIs into usable products
 
+- **AI automation for technical workflows**
+  - workflow ideas for support, TAM, analysis, and internal execution
 
----
-
-## 🧠 Finance + AI: What I’m exploring next
-- 간단한 **팩터 모델(+시각화)**: 수익률·변동성·거시지표 상관 분석, 신호 카드 만들기  
-- **재무/NLP 토이**: MD&A 키워드·감성 스코어를 CSV로 뽑아 리포트에 자동 반영  
-- **오픈 모델 경량화/서빙**: OpenVINO로 뉴스 임베딩 모델 추론서버 미니 PoC
+- **research-driven systems projects**
+  - cloud storage hotspot detection, robust SPC, metric learning, and interpretable analytics pipelines
 
 ---
 
-## 📈 By the numbers
-- 의사결정/로드맵 템플릿 도입 시 **OTD +8~12pp**, **리포트 작성 시간 –40%** (보수 추정)  
-- 툴킷/리포트는 모두 **Markdown + Mermaid** 기반으로 재사용성 높임
+## Current Focus
+
+- **Cloud + AI**
+  - AI agents, workflow automation, and enterprise-facing technical tooling
+
+- **Technical consulting direction**
+  - connecting infrastructure, customer problems, internal tooling, and execution
+
+- **Research engineering**
+  - turning notebook-first research into structured, reusable, documented codebases
+
+- **Finance + AI**
+  - keeping finance as a secondary build axis through valuation tools and AI-assisted research workflows
 
 ---
 
-## 🤝 Let’s connect
-- 전략/리서치/운영 문제를 코드/체크리스트로 “수행가능한 형태”로 만드는 작업 환영
-- Finance + AI 토이 아이디어 콜라보도 OK
+## Experience Snapshot
+
+- **Tencent Cloud CSIG — Public Cloud Technical Support / TAM Intern**
+  - worked around DDoS incident analysis, EdgeOne, customer support workflows, TAM-style coordination, AI automation ideas, and customer communication
+
+- **Third Bridge — Associate Intern**
+  - gained exposure to structured research, business problem framing, and insight synthesis
+
+- **Shanghai Jiao Tong University — Industrial Engineering**
+  - working on a graduation thesis around cloud storage load balancing and hotspot detection
+
+- **Research Themes**
+  - Robust SPC, Metric Learning, Mahalanobis Distance, AUC, Cloud Storage Analytics
+
+---
+
+## Research & AI Projects
+
+- **Cloud Storage Hotspot Detection / Graduation Thesis**
+  - a research pipeline for node-level and port-level hotspot detection in cloud storage systems
+  - built around imbalance metrics, robust SPC, event construction, and metric learning
+
+- **Vision-Language / OpenVINO Work**
+  - OpenVINO, DeepSeek-VL2, and vision-language assistant experiments
+  - focused on practical inference workflows and applied experimentation
+
+- **AI Workflow Prototyping**
+  - using Replit, Codex, and GitHub to build lightweight but real working systems
+
+---
+
+## Featured Repositories
+
+| Project | Area | What it shows | Link |
+|---|---|---|---|
+| **stock-analyzing-web** | Full-stack AI web app | Product thinking, TypeScript full-stack implementation, API integration, deployment structure, and the ability to turn a domain idea into a working web product | [repo](https://github.com/JUNHOJO-korea/stock-analyzing-web) |
+| **cloud-storage-hotspot-detection** | Research engineering / cloud analytics | Thesis-level technical depth, statistical reasoning, systems thinking, and the ability to package research into a public engineering-facing codebase | [repo](https://github.com/JUNHOJO-korea/cloud-storage-hotspot-detection) |
+| **china-value-chain-toolkit** | Operational tooling / structured documentation | Practical problem-structuring, decision-framework design, and the ability to make operational complexity executable | [repo](https://github.com/JUNHOJO-korea/china-value-chain-toolkit) |
+| **Hyundai_Report-2025-** | Strategy / industry research | Business analysis, structured reasoning, and the ability to synthesize market, operations, and strategic implications into a clear deliverable | [repo](https://github.com/JUNHOJO-korea/Hyundai_Report-2025-) |
+
+---
+
+## Tech Stack
+
+**Languages**
+- Python
+- TypeScript / JavaScript
+- SQL
+- Markdown / Mermaid
+
+**Engineering / AI**
+- OpenVINO
+- PyTorch (basic)
+- vision-language workflow experimentation
+- AI-assisted prototyping with Codex / Replit / GitHub
+
+**Cloud / Technical Work**
+- Tencent Cloud ecosystem exposure
+- EdgeOne
+- DDoS support / incident-oriented analysis
+- customer-facing technical communication
+- workflow automation ideas for TAM / support environments
+
+---
+
+## Career Direction
+
+I’m moving toward roles where **technical depth and business context both matter**, especially:
+
+- **Cloud + AI Technical Consultant**
+- **Solutions Architect / customer-facing technical role**
+- **AI Agent / workflow builder**
+- **Research engineer with product and business sense**
+- **Finance + AI builder** as a secondary specialization
+
+The common thread is simple:
+I want to work on problems where **infrastructure, automation, customer context, and decision-making** come together.
+
+---
+
+## Contact / Collaboration
+
+I’m open to conversations around:
+
+- cloud infrastructure and AI workflow projects
+- technical consulting and solutions-oriented work
+- research-to-product collaboration
+- finance + AI side projects with practical output
+
+- GitHub: [JUNHOJO-korea](https://github.com/JUNHOJO-korea)
+- LinkedIn: [junho-j-4a0635241](https://www.linkedin.com/in/junho-j-4a0635241/)
