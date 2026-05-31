@@ -12,9 +12,13 @@
   <img src="https://img.shields.io/badge/Focus-Cloud%20%2B%20AI%20%7C%20Research%20%2B%20Business-2563EB?style=flat">
 </p>
 
+<p align="center">
+  Building tools where infrastructure, automation, research, and business execution connect.
+</p>
+
 ---
 
-## Positioning Statement
+## About Me
 
 I build practical systems where **cloud infrastructure, AI automation, research engineering, and business-facing technical work** meet.
 
